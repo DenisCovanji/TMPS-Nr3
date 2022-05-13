@@ -1,0 +1,7 @@
+F:\Studii\UTM\Anul III Semestrul VI\TMPS_Tehnici_si_mecanisme_de_proiectare_software\Mediator\bin\Debug\Mediator.exe.config
+F:\Studii\UTM\Anul III Semestrul VI\TMPS_Tehnici_si_mecanisme_de_proiectare_software\Mediator\bin\Debug\Mediator.exe
+F:\Studii\UTM\Anul III Semestrul VI\TMPS_Tehnici_si_mecanisme_de_proiectare_software\Mediator\bin\Debug\Mediator.pdb
+F:\Studii\UTM\Anul III Semestrul VI\TMPS_Tehnici_si_mecanisme_de_proiectare_software\Mediator\obj\Debug\Mediator.csproj.AssemblyReference.cache
+F:\Studii\UTM\Anul III Semestrul VI\TMPS_Tehnici_si_mecanisme_de_proiectare_software\Mediator\obj\Debug\Mediator.csproj.CoreCompileInputs.cache
+F:\Studii\UTM\Anul III Semestrul VI\TMPS_Tehnici_si_mecanisme_de_proiectare_software\Mediator\obj\Debug\Mediator.exe
+F:\Studii\UTM\Anul III Semestrul VI\TMPS_Tehnici_si_mecanisme_de_proiectare_software\Mediator\obj\Debug\Mediator.pdb
